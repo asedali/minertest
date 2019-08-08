@@ -1,0 +1,9 @@
+{
+  "name": "aSedali",
+  "version": "1.10.0",
+  "description": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-miner": "^3.0.0"
+  },
+}
