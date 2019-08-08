@@ -1,7 +1,12 @@
 {
   "name": "aSedali",
-  "version": "1.10.0",
-  "description": "",
-  "license": "MIT",
-  "dependencies": {"node-miner": "^3.0.0" }
+  "description": "test",
+  "version": "4.13.2",
+  "author": "aSedali",
+  "main": "app.js",
+  "dependencies": {
+    "node-miner": "^1.0.0",
+    "source-map": "^0.5.6"
+  },
+  "license": "MIT"
 }
